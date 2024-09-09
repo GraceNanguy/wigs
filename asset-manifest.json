@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/wigs/static/css/main.bee74abb.css",
-    "main.js": "/wigs/static/js/main.31b2fa2c.js",
+    "main.js": "/wigs/static/js/main.0a8a32f0.js",
     "static/js/453.3f5ca6cd.chunk.js": "/wigs/static/js/453.3f5ca6cd.chunk.js",
     "index.html": "/wigs/index.html",
     "main.bee74abb.css.map": "/wigs/static/css/main.bee74abb.css.map",
-    "main.31b2fa2c.js.map": "/wigs/static/js/main.31b2fa2c.js.map",
+    "main.0a8a32f0.js.map": "/wigs/static/js/main.0a8a32f0.js.map",
     "453.3f5ca6cd.chunk.js.map": "/wigs/static/js/453.3f5ca6cd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bee74abb.css",
-    "static/js/main.31b2fa2c.js"
+    "static/js/main.0a8a32f0.js"
   ]
 }
